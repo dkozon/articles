@@ -56,7 +56,7 @@ Moja rada: omijaj kilkutygodniowe kursy. Zostaw sobie czas na poćwiczenie. Nie 
 
 Tytuł tego akapitu chyba nic Ci nie mówi, a **jest on kluczowy do zrozumienia, zanim podejmiesz decyzję o szkole programowania**!
 
-Czym jest programowanie zawodowe? **Programowanie polega na rozwiązywaniu różnych problemów biznesowych, i dokładnie za płaci się programistom**. Programistą nie jesteś wtedy, gdy umiesz kilka języków programowania. Musisz być rzemieślnikiem, który każdy problem biznesowy rozwiąże używając znanych mu narzędzi.
+Czym jest programowanie zawodowe? **Programowanie polega na rozwiązywaniu różnych problemów biznesowych, i dokładnie za to płaci się programistom**. Programistą nie jesteś wtedy, gdy umiesz kilka języków programowania. Musisz być rzemieślnikiem, który każdy problem biznesowy rozwiąże używając znanych mu narzędzi.
 
 Idąc do szkoły programowania poznajesz te narzędzia, czyli języki programowania. Nikt nie nauczy Cię rozwiązywać problemów pracy codzinnej. Przez to wiele osób po szkole programowania nie wie co dalej z sobą zrobić, i dopiero wtedy zdaje sobie sprawę, że nie naddaje się do tego zawodu.
 
